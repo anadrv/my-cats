@@ -1,6 +1,6 @@
 const cats = [
   {
-    name: "Apollo",
+    name: "Apolo",
     nickname: "AU AU DAS NEVES",
     location: "Do Conde - PB",
     birthdate: "07/12/2015",

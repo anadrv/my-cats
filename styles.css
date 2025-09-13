@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alike&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+body {
+    background-color: #47f0ff;
+}
+
+main {
+  display: flex;
+  align-items: end;
+  width: 80%;
+  margin: 0 auto;
+  gap: 64px;
+  font-family: "Alike", serif;
+}
+
+/*COVER*/
+
+
+.cat-name {
+  font-family: "Dela Gothic One", serif;
+  letter-spacing: 2px;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  padding: 50px 170px 25px 0;
+  color: white;
+  font-family: "Dela Gothic One", serif;
+  font-size: 2em;
+  letter-spacing: 1px;
+}
+
+.highlight {
+  font-family: "Nothing You Could Do", cursive;
+  color: #246f75;
+}
+
+.cat-name {
+  font-size: 2.5rem;
+  margin-top: -34px;
+  color: #263238;
+}
+
+.cat-nickname {
+  color: #246f75;
+}
+
+a {
+    text-decoration: none;
+    color: #263238;
+    font-weight: bold;
+}
+
+/*CAROUSEL*/
+
+.carousel-container {
+  overflow: hidden;
+}
+
+.selected-cat img {
+  width: 330px;
+}
+
+.cat-images {
+  display: flex;
+  gap: 24px;
+  transition: transform 0.5s ease-in-out;
+}
+
+.cat-images img {
+  width: 320px;
+}
+
+.arrows {
+  margin-top: 12px;
+}
+
+.arrows:hover {
+  cursor: pointer;
+}
+
+.arrow-left {
+  margin-right: 8px;
+}
