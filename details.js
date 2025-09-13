@@ -1,4 +1,3 @@
-// Data for all cats
 const cats = [
   {
     name: "Apollo",
@@ -30,17 +29,17 @@ const cats = [
     captionImg02: "Named after Apollo from Percy Jackson"
   },
 
-  // Add other cats here
+
 ];
 
-// Get cat name from query string
+
 const params = new URLSearchParams(window.location.search);
 const catName = params.get("cat");
 
-// Select the cat
-const selectedCat = cats.find(c => c.name === catName) || cats[0]; // defaults to first cat
 
-// Fill data
+const selectedCat = cats.find(c => c.name === catName) || cats[0];
+
+
 document.getElementById("cat-name").textContent = selectedCat.name;
 document.getElementById("nickname").textContent = selectedCat.nickname;
 document.getElementById("location").textContent = selectedCat.location;
@@ -58,7 +57,7 @@ document.getElementById("gender").textContent = selectedCat.gender;
 document.getElementById("fur").textContent = selectedCat.fur;
 document.getElementById("eyes").textContent = selectedCat.eyes;
 
-// Fill skills
+
 const skillsTable = document.getElementById("skills-table");
 selectedCat.skills.forEach(skill => {
   const tr = document.createElement("tr");
