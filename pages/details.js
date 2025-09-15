@@ -28,6 +28,35 @@ const cats = [
     ],
     captionImg02: "Named after Apollo from Percy Jackson"
   },
+  {
+    name: "Aurora",
+    nickname: "AU AU DAS NEVES",
+    location: "Do Conde - PB",
+    birthdate: "07/12/2015",
+    images: [
+      "/images/apolo/apolo-img-01.png",
+      "/images/apolo/apolo-img-02.png",
+      "/images/apolo/apolo-img-03.png",
+      "/images/apolo/apolo-img-04.png"
+    ],
+    description: [
+      "Came from Do Conde - PB with siblings, Lua and Marte. Loves to sleep with head hanging, play with Batatinha and cuddle with Sky. Likes to stay with sibling and with us when we're together in a room.",
+      "Also called 'the house dog' because when meowing to enter somewhere, it sounds like 'au au'. Acts a bit stubborn but is affectionate, just doesn't like being held, prefers head pats and to go where it wants."
+    ],
+    age: "2 years",
+    weight: "4.5 kg",
+    gender: "Female",
+    fur: "Short",
+    eyes: "Green",
+    skills: [
+      { name: "Open kitchen door", rating: 3 },
+      { name: "Climb on places", rating: 5 },
+      { name: "Voice (volume)", rating: 4 },
+      { name: "Affection", rating: 3 },
+      { name: "Special skill", rating: "Super" }
+    ],
+    captionImg02: "Named after Apollo from Percy Jackson"
+  },
 
 
 ];

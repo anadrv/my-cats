@@ -11,7 +11,7 @@ const cats = [
     nickname: "TESTE DE DNA", 
     img: "images/general/aurora-cover.png", 
     color: "#E8CAD3",
-    link: "/pages/aurora/aurora.html" 
+    link: "/pages/details.html?cat=Aurora" 
   },
   { 
     name: "BATATINHA", 
