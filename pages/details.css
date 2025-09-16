@@ -51,13 +51,13 @@ h1 {
   height: 350px;
 }
 
-.image-01__legenda {
+.image-01__caption {
   display: flex;
   justify-content: space-between;
 }
 
-.image-01__legenda,
-.image-02__legenda {
+.image-01__caption,
+.image-02__caption {
   font-size: 0.8rem;
   text-transform: uppercase;
 }

@@ -1,6 +1,6 @@
 const cats = [
   {
-    name: "Apolo",
+    name: "APOLO",
     nickname: "AU AU DAS NEVES",
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
@@ -11,25 +11,25 @@ const cats = [
       "/images/apolo/apolo-img-04.png"
     ],
     description: [
-      "Came from Do Conde - PB with siblings, Lua and Marte. Loves to sleep with head hanging, play with Batatinha and cuddle with Sky. Likes to stay with sibling and with us when we're together in a room.",
-      "Also called 'the house dog' because when meowing to enter somewhere, it sounds like 'au au'. Acts a bit stubborn but is affectionate, just doesn't like being held, prefers head pats and to go where it wants."
+      "Veio do Conde junto dos irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha e carinho de Sky. Não gosta muito de ficar sozinho, se a gente aqui de casa estiver reunido, ele gosta de ficar por perto.",
+      "Chamado também de “o au au da casa” porque quando fica miando para entrar em algum lugar, parece “au au”. Meio carente, mas não gosta que pegue no colo, prefere carinho só na cabeça e que ele mesmo vá atrás."
     ],
-    age: "2 years",
+    age: "4 anos",
     weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
+    gender: "Macho",
+    fur: "Médio",
+    eyes: "Azul claro",
     skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
+      { name: "Nível de paciência", rating: 2 },
+      { name: "Subir nos lugares", rating: 5 },
+      { name: "Voz (volume)", rating: 4 },
+      { name: "Carinho", rating: 3 },
+      { name: "Habiliade especial", rating: "Super sólido" }
     ],
-    captionImg02: "Named after Apollo from Percy Jackson"
+    captionImg02: "O NOME FOI DO APOLO DE PERCY JACKSON"
   },
   {
-    name: "Aurora",
+    name: "AURORA",
     nickname: "AU AU DAS NEVES",
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
