@@ -114,7 +114,8 @@ if (currentIndex === -1) currentIndex = 0;
 
 function goToCat(index) {
   const nextCatName = catsNames[index];
-  window.location.href = `/my-cats/pages/details.html?cat=${nextCatName}`;
+  window.location.href = `https://anadrv.github.io/my-cats/pages/details.html?cat=${nextCatName}`;
+
 }
 
 
