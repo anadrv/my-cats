@@ -2,7 +2,7 @@ const cats = [
   {
     name: "APOLO",
     nickname: "AU AU DAS NEVES",
-    background: "#47f0ff",
+    background: "#3dcfddff",
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
     images: [
