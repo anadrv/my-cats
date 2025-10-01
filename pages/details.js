@@ -114,18 +114,10 @@ if (currentIndex === -1) currentIndex = 0;
 
 function goToCat(index) {
   const nextCatName = catsNames[index];
-  
-  // Pega a origem (https://anadrv.github.io)
-  const origin = window.location.origin;
-
-  // Pega a raiz do repositório (ex: /my-cats)
-  const repo = window.location.pathname.split('/')[1]; 
-
-  const url = `${origin}/${repo}/pages/details.html?cat=${nextCatName}`;
-  console.log("URL final:", url);
-  window.location.href = url;
+  const url = new URL(window.location.href);
+  url.searchParams.set("cat", nextCatName);
+  window.location.href = url.toString();
 }
-
 
 
 nextBtn.addEventListener('click', () => {
