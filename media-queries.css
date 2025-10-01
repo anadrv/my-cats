@@ -2,6 +2,7 @@
   body {
     margin: 0 auto;
     width: 90%;
+
   }
 
   .title {
@@ -10,9 +11,18 @@
   }
 
   main {
+    display: flex;
     flex-direction: column;
-    align-items: end;
+    align-items: center; 
     gap: 20px;
+  }
+
+   .first-section,
+  .second-section {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 50px;
   }
   .cat-images {
     display: none;
