@@ -114,8 +114,14 @@ if (currentIndex === -1) currentIndex = 0;
 
 function goToCat(index) {
   const nextCatName = catsNames[index];
+
+  // pega a URL atual
   const url = new URL(window.location.href);
+
+  // troca só o parâmetro "cat"
   url.searchParams.set("cat", nextCatName);
+
+  // redireciona
   window.location.href = url.toString();
 }
 
