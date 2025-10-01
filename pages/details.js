@@ -114,13 +114,18 @@ if (currentIndex === -1) currentIndex = 0;
 
 function goToCat(index) {
   const nextCatName = catsNames[index];
+  
+  // Pega a origem (https://anadrv.github.io)
+  const origin = window.location.origin;
 
-  // Caminho absoluto dentro do repositório
-  const repoName = 'my-cats'; // coloque exatamente o nome do seu repositório
-  const pagePath = 'pages/details.html';
+  // Pega a raiz do repositório (ex: /my-cats)
+  const repo = window.location.pathname.split('/')[1]; 
 
-  window.location.href = `/${repoName}/${pagePath}?cat=${nextCatName}`;
+  const url = `${origin}/${repo}/pages/details.html?cat=${nextCatName}`;
+  console.log("URL final:", url);
+  window.location.href = url;
 }
+
 
 
 nextBtn.addEventListener('click', () => {
