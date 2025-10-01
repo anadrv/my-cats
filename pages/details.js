@@ -2,6 +2,7 @@ const cats = [
   {
     name: "APOLO",
     nickname: "AU AU DAS NEVES",
+    background: "#47f0ff",
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
     images: [
@@ -30,8 +31,9 @@ const cats = [
   },
   {
     name: "AURORA",
-    nickname: "AU AU DAS NEVES",
-    location: "Do Conde - PB",
+    nickname: "O TESTE DE DNA",
+    background: "#288891ff",
+    location: "Lagoa Seca - PB",
     birthdate: "07/12/2015",
     images: [
       "/images/apolo/apolo-img-01.png",
@@ -66,7 +68,7 @@ const params = new URLSearchParams(window.location.search);
 const catName = params.get("cat");
 
 
-const selectedCat = cats.find(c => c.name === catName) || cats[0];
+const selectedCat = cats.find(c => c.name.toUpperCase() === catName?.toUpperCase()) || cats[0];
 
 
 document.getElementById("cat-name").textContent = selectedCat.name;
@@ -85,6 +87,7 @@ document.getElementById("weight").textContent = selectedCat.weight;
 document.getElementById("gender").textContent = selectedCat.gender;
 document.getElementById("fur").textContent = selectedCat.fur;
 document.getElementById("eyes").textContent = selectedCat.eyes;
+document.body.style.backgroundColor = selectedCat.background;
 
 
 const skillsTable = document.getElementById("skills-table");

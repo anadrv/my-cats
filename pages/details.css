@@ -103,6 +103,10 @@ h1 {
   text-align: end;
 }
 
+#description-02 {
+  text-align: justify;
+}
+
 /*TABLE*/
 
 table {
