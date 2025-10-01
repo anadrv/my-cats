@@ -32,28 +32,42 @@
     height: auto;
   }
 
+  .image-02 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+  }
+
   .text-01 {
     margin-top: 10px;
     width: 100%;
   }
 
+
   .colors {
     flex-direction: row;
-    margin-top: 20px;
+    margin: 40px 0;
     justify-content: space-between;
     width: 100%;
   }
 
-  .color-01,
-  .color-02,
-  .color-03,
+
   .detail {
     width: 50px;
     height: 50px;
   }
+
+   .color-01,
+  .color-02,
+  .color-03 {
+    width: 805px;
+    height: 50px;
+  }
   .second-section {
+    margin-top: 0;
     flex-direction: column-reverse;
-    align-items: center;
+    align-items: end;
   }
 
   .skills-characteristics {

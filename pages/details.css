@@ -101,6 +101,7 @@ h1 {
 .nickname {
   font-family: "Dela Gothic One", serif;
   text-align: end;
+  color: #263238;
 }
 
 #description-02 {
@@ -108,6 +109,13 @@ h1 {
 }
 
 /*TABLE*/
+
+.characteristics-title, .skills-title {
+ font-family: "Dela Gothic One", serif;
+ font-size: 1.1rem;
+ letter-spacing: 1px;
+ color: #263238;
+}
 
 table {
   border-collapse: collapse;
@@ -128,4 +136,14 @@ tr {
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+
+/*ARROWS*/
+
+.arrows {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  gap: 10px;
+  margin-bottom: 20px;
 }

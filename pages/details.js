@@ -32,7 +32,7 @@ const cats = [
   {
     name: "AURORA",
     nickname: "O TESTE DE DNA",
-    background: "#288891ff",
+    background: "#E8CAD3",
     location: "Lagoa Seca - PB",
     birthdate: "07/12/2015",
     images: [
@@ -42,8 +42,8 @@ const cats = [
       "/images/apolo/apolo-img-04.png"
     ],
     description: [
-      "Came from Do Conde - PB with siblings, Lua and Marte. Loves to sleep with head hanging, play with Batatinha and cuddle with Sky. Likes to stay with sibling and with us when we're together in a room.",
-      "Also called 'the house dog' because when meowing to enter somewhere, it sounds like 'au au'. Acts a bit stubborn but is affectionate, just doesn't like being held, prefers head pats and to go where it wants."
+      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
+      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
     ],
     age: "2 years",
     weight: "4.5 kg",
@@ -101,3 +101,34 @@ selectedCat.skills.forEach(skill => {
   tr.appendChild(tdRating);
   skillsTable.appendChild(tr);
 });
+
+const prevBtn = document.querySelector('.arrow-left');
+const nextBtn = document.querySelector('.arrow-right');
+
+const catsNames = cats.map(c => c.name);
+
+
+let currentIndex = catsNames.findIndex(name => name.toUpperCase() === catName?.toUpperCase());
+if (currentIndex === -1) currentIndex = 0;
+
+
+function goToCat(index) {
+  const nextCatName = catsNames[index];
+  window.location.href = `details.html?cat=${nextCatName}`;
+}
+
+
+nextBtn.addEventListener('click', () => {
+  currentIndex++;
+  if (currentIndex >= catsNames.length) currentIndex = 0; 
+  goToCat(currentIndex);
+});
+
+
+prevBtn.addEventListener('click', () => {
+  currentIndex--;
+  if (currentIndex < 0) currentIndex = catsNames.length - 1; 
+  goToCat(currentIndex);
+});
+
+
