@@ -115,12 +115,14 @@ if (currentIndex === -1) currentIndex = 0;
 function goToCat(index) {
   const nextCatName = catsNames[index];
 
-  // cria os parâmetros novos
   const params = new URLSearchParams(window.location.search);
   params.set("cat", nextCatName);
 
-  // mantém o path atual e só troca os parâmetros
-  window.location.href = window.location.pathname + "?" + params.toString();
+  // pega só o caminho relativo da página atual
+  const path = window.location.pathname.split("/").pop(); // pega 'details.html'
+
+  // navega mantendo a pasta atual
+  window.location.href = path + "?" + params.toString();
 }
 
 nextBtn.addEventListener('click', () => {
