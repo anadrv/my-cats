@@ -114,8 +114,12 @@ if (currentIndex === -1) currentIndex = 0;
 
 function goToCat(index) {
   const nextCatName = catsNames[index];
-  window.location.href = '/my-cats/pages/details.html?cat=' + nextCatName;
 
+  // Caminho absoluto dentro do repositório
+  const repoName = 'my-cats'; // coloque exatamente o nome do seu repositório
+  const pagePath = 'pages/details.html';
+
+  window.location.href = `/${repoName}/${pagePath}?cat=${nextCatName}`;
 }
 
 
