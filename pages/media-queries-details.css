@@ -73,4 +73,11 @@
   .skills-characteristics {
     flex-direction: column;
   }
+
+  .arrows {
+    width: 70px;
+    height: auto;
+    align-items: center;
+    justify-content: start;
+  }
 }

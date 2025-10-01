@@ -146,4 +146,5 @@ tr {
   justify-content: end;
   gap: 10px;
   margin-bottom: 20px;
+  cursor: pointer;
 }
