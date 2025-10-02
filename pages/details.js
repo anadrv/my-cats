@@ -118,10 +118,7 @@ function goToCat(index) {
   const params = new URLSearchParams(window.location.search);
   params.set("cat", nextCatName);
 
-  // pega só o caminho relativo da página atual
-  const path = window.location.pathname.split("/").pop(); // pega 'details.html'
-
-  // navega mantendo a pasta atual
+  const path = window.location.pathname.split("/").pop();  
   window.location.href = path + "?" + params.toString();
 }
 
