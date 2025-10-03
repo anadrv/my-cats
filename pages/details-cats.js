@@ -3,7 +3,7 @@ const cats = [
     name: "APOLO",
     nickname: "AU AU DAS NEVES",
     background: "#3dcfdd",
-    textColor: "#1a1a1a",
+    textColor: "#121212",
     colors: ["#3dcfdd", "#f7a1a1", "#fff176"],
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
@@ -36,8 +36,8 @@ const cats = [
     name: "AURORA",
     nickname: "O TESTE DE DNA",
     background: "#E8CAD3",
-    textColor: "#222222",
-    colors: ["#E8CAD3", "#d48ca5", "#ffffff"],
+    textColor: "#121212",
+    colors: ["#9A9175", "#DAC3AE", "#8E6552"],
     location: "FILHA DE GAMORA ",
     birthdate: "13/06/2019",
     images: [
@@ -47,10 +47,10 @@ const cats = [
       "/images/aurora/aurora-img-05.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai.",
-      "Desde pequena é meio nervosa — mas gosta de carinho, ronrona e lambe."
+      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a que nasceu mais normal e a mais rápida. É a irmã do meio ",
+      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
     ],
-    age: "2 anos",
+    age: "6 anos",
     weight: "4.5 kg",
     gender: "Fêmea",
     fur: "Curto",
@@ -68,15 +68,17 @@ const cats = [
   {
     name: "BATATINHA",
     nickname: "O ESCANDALOSO",
-    background: "#f4e19e",
-    textColor: "#2a2a2a",
+    background: "#28744E",
+    textColor: "#ffffff",
     colors: ["#f4e19e", "#f2b632", "#fff8dc"],
     location: "De Campina Grande",
     birthdate: "02/08/2018",
     images: [
       "/images/batatinha/batatinha-img-01.png",
       "/images/batatinha/batatinha-img-02.png",
-      "/images/batatinha/batatinha-img-03.png"
+      "/images/batatinha/batatinha-img-03.png",
+      "/images/batatinha/batatinha-img-04.png",
+      
     ],
     description: [
       "O gato mais escandaloso da casa, qualquer coisa é motivo para miado.",
