@@ -14,8 +14,8 @@ const cats = [
       "/images/apolo/apolo-img-04.png"
     ],
     description: [
-      "Veio do Conde junto dos irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha e carinho de Sky.",
-      "Chamado também de “o au au da casa” porque quando fica miando parece 'au au'."
+      "Veio do Conde junto do irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha (do nada ele vai e bate nele) e carinho de Sky. ",
+      "Chamado também de “o au au da casa” porque quando fica miando para entrar em algum lugar, parece “au au”. Meio carente, mas não gosta que pegue no colo, prefere carinho só na cabeça e que ele mesmo vá atrás."
     ],
     age: "5 anos",
     weight: "4.5 kg",
@@ -60,7 +60,7 @@ const cats = [
       { name: "Subir nos lugares", rating: 4 },
       { name: "Voz (volume)", rating: 3 },
       { name: "Carinho", rating: 3 },
-      { name: "Habiliade especial", rating: "Super" }
+      { name: "Habiliade especial", rating: "Unhas super afiadas" }
     ],
     captionImg02: "AURORA POR CAUSA DA CANTORA"
   },
@@ -68,8 +68,8 @@ const cats = [
   {
     name: "BATATINHA",
     nickname: "O MALANDRO",
-    background: "#28744E",
-    textColor: "#ffffff",
+    background: "#4DC88B",
+    textColor: "#121212",
     colors: ["#f4e19e", "#f2b632", "#fff8dc"],
     location: "De Campina Grande",
     birthdate: "02/08/2018",
