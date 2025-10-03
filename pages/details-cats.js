@@ -314,16 +314,16 @@ const cats = [
   {
     name: "LILY",
     nickname: "A REFUGIADA",
-    background: "#d8c7f2",
-    textColor: "#2a2a2a",
+    background: "#dFF8D9E",
+    textColor: "#121212",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/lily/lily-img-01.png",
+      "/images/lily/lily-img-02.png",
+      "/images/lily/lily-img-03.png",
+      "/images/lily/lily-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
