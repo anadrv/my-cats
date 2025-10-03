@@ -61,7 +61,7 @@ if (currentIndex === -1) currentIndex = 0;
 function goToCat(index) {
   const nextCatName = cats[index].name; 
   const params = new URLSearchParams(window.location.search);
-  params.set("cat", nextCatName);
+  params.set("cat", encodeURIComponent(nextCatName));
   window.location.search = params.toString();
 }
 

@@ -176,7 +176,7 @@ const cats = [
     //DENTE DE ANZOL
 
   {
-    name: "CRISTAL",
+    name: "DENTE DE ANZOL",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -189,7 +189,7 @@ const cats = [
       "/images/cristal/cristal-img-03.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Quando nasceu achei que tava morto porque demorou um tempo para se mexer, até hoje é o gato que mais dorme - inclusive adora ficar enrolado na frente do ventilador.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
     age: "9 anos",
