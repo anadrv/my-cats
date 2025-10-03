@@ -67,7 +67,7 @@ const cats = [
 
   {
     name: "BATATINHA",
-    nickname: "O ESCANDALOSO",
+    nickname: "O MALANDRO",
     background: "#28744E",
     textColor: "#ffffff",
     colors: ["#f4e19e", "#f2b632", "#fff8dc"],
@@ -101,16 +101,17 @@ const cats = [
 
   {
     name: "BRANCO",
-    nickname: "O FANTASMA",
+    nickname: "O CAGEPA",
     background: "#f5f5f5",
     textColor: "#111111",
     colors: ["#f5f5f5", "#dcdcdc", "#a9a9a9"],
-    location: "Veio da rua",
+    location: "NÃO PODE VER ÁGUA QUE QUER BEBER",
     birthdate: "2017",
     images: [
       "/images/branco/branco-img-01.png",
       "/images/branco/branco-img-02.png",
-      "/images/branco/branco-img-03.png"
+      "/images/branco/branco-img-03.png",
+      "/images/branco/branco-img-04.png"
     ],
     description: [
       "Chamado de 'fantasma' porque aparece e desaparece sem a gente ver.",
@@ -122,18 +123,18 @@ const cats = [
     fur: "Curto",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 3 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 1 },
-      { name: "Carinho", rating: 2 },
-      { name: "Habiliade especial", rating: "Sumir sem aviso" }
+      { name: "Nível de paciência", rating: 5 },
+      { name: "Subir nos lugares", rating: 5 },
+      { name: "Voz (volume)", rating: 4 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Beber água" }
     ],
-    captionImg02: "O BRANCO POR SER TODO BRANCO"
+    captionImg02: "JÁ TINHA NOME QUANDO FOI ADOTADO"
   },
 
   {
     name: "CRISTAL",
-    nickname: "A DELICADA",
+    nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
