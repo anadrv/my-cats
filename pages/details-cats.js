@@ -2,7 +2,9 @@ const cats = [
   {
     name: "APOLO",
     nickname: "AU AU DAS NEVES",
-    background: "#3dcfddff",
+    background: "#3dcfdd",
+    textColor: "#1a1a1a",
+    colors: ["#3dcfdd", "#f7a1a1", "#fff176"],
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
     images: [
@@ -12,8 +14,8 @@ const cats = [
       "/images/apolo/apolo-img-04.png"
     ],
     description: [
-      "Veio do Conde junto dos irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha e carinho de Sky. Não gosta muito de ficar sozinho, se a gente aqui de casa estiver reunido, ele gosta de ficar por perto.",
-      "Chamado também de “o au au da casa” porque quando fica miando para entrar em algum lugar, parece “au au”. Meio carente, mas não gosta que pegue no colo, prefere carinho só na cabeça e que ele mesmo vá atrás."
+      "Veio do Conde junto dos irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha e carinho de Sky.",
+      "Chamado também de “o au au da casa” porque quando fica miando parece 'au au'."
     ],
     age: "5 anos",
     weight: "4.5 kg",
@@ -30,12 +32,12 @@ const cats = [
     captionImg02: "O NOME FOI DO APOLO DE PERCY JACKSON"
   },
 
-  //AURORA
-
   {
     name: "AURORA",
     nickname: "O TESTE DE DNA",
     background: "#E8CAD3",
+    textColor: "#222222",
+    colors: ["#E8CAD3", "#d48ca5", "#ffffff"],
     location: "FILHA DE GAMORA ",
     birthdate: "13/06/2019",
     images: [
@@ -45,14 +47,14 @@ const cats = [
       "/images/aurora/aurora-img-05.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
+      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai.",
+      "Desde pequena é meio nervosa — mas gosta de carinho, ronrona e lambe."
     ],
-    age: "2 years",
+    age: "2 anos",
     weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
+    gender: "Fêmea",
+    fur: "Curto",
+    eyes: "Verdes",
     skills: [
       { name: "Nível de paciência", rating: 3 },
       { name: "Subir nos lugares", rating: 4 },
@@ -63,222 +65,99 @@ const cats = [
     captionImg02: "AURORA POR CAUSA DA CANTORA"
   },
 
-  //BATATINHA
-
   {
     name: "BATATINHA",
-    nickname: "O MALANDRO",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
+    nickname: "O ESCANDALOSO",
+    background: "#f4e19e",
+    textColor: "#2a2a2a",
+    colors: ["#f4e19e", "#f2b632", "#fff8dc"],
+    location: "De Campina Grande",
+    birthdate: "02/08/2018",
     images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
+      "/images/batatinha/batatinha-img-01.png",
+      "/images/batatinha/batatinha-img-02.png",
+      "/images/batatinha/batatinha-img-03.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
+      "O gato mais escandaloso da casa, qualquer coisa é motivo para miado.",
+      "Adora brigar com Apolo, mas no fundo são parceiros inseparáveis."
     ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
+    age: "7 anos",
+    weight: "5.2 kg",
+    gender: "Macho",
+    fur: "Curto",
+    eyes: "Amarelos",
     skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
+      { name: "Nível de paciência", rating: 1 },
+      { name: "Subir nos lugares", rating: 3 },
+      { name: "Voz (volume)", rating: 5 },
+      { name: "Carinho", rating: 2 },
+      { name: "Habiliade especial", rating: "Miado ensurdecedor" }
     ],
-    captionImg02: "Named after Apollo from Percy Jackson"
+    captionImg02: "NOME PORQUE ERA UMA BATATINHA PEQUENA"
   },
-
-  //BRANCO
 
   {
     name: "BRANCO",
-    nickname: "O CAGEPA",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
+    nickname: "O FANTASMA",
+    background: "#f5f5f5",
+    textColor: "#111111",
+    colors: ["#f5f5f5", "#dcdcdc", "#a9a9a9"],
+    location: "Veio da rua",
+    birthdate: "2017",
     images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
+      "/images/branco/branco-img-01.png",
+      "/images/branco/branco-img-02.png",
+      "/images/branco/branco-img-03.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
+      "Chamado de 'fantasma' porque aparece e desaparece sem a gente ver.",
+      "Super independente, mas de vez em quando pede carinho do nada."
     ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
+    age: "8 anos",
+    weight: "5.0 kg",
+    gender: "Macho",
+    fur: "Curto",
+    eyes: "Azuis",
     skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
+      { name: "Nível de paciência", rating: 3 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 1 },
+      { name: "Carinho", rating: 2 },
+      { name: "Habiliade especial", rating: "Sumir sem aviso" }
     ],
-    captionImg02: "Named after Apollo from Percy Jackson"
+    captionImg02: "O BRANCO POR SER TODO BRANCO"
   },
-
-  //CRISTAL
 
   {
     name: "CRISTAL",
-    nickname: "A PERIGOSA",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
+    nickname: "A DELICADA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
     images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
     ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
     skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
     ],
-    captionImg02: "Named after Apollo from Percy Jackson"
-  },
-  {
-    name: "BATATINHA",
-    nickname: "O MALANDRO",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
-    images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
-    ],
-    description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
-    ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
-    skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
-    ],
-    captionImg02: "Named after Apollo from Percy Jackson"
-  },
-  {
-    name: "BATATINHA",
-    nickname: "O MALANDRO",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
-    images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
-    ],
-    description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
-    ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
-    skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
-    ],
-    captionImg02: "Named after Apollo from Percy Jackson"
-  },
-  {
-    name: "BATATINHA",
-    nickname: "O MALANDRO",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
-    images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
-    ],
-    description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
-    ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
-    skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
-    ],
-    captionImg02: "Named after Apollo from Percy Jackson"
-  },
-  {
-    name: "BATATINHA",
-    nickname: "O MALANDRO",
-    background: "#28744E",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
-    images: [
-      "/images/apolo/apolo-img-01.png",
-      "/images/apolo/apolo-img-02.png",
-      "/images/apolo/apolo-img-03.png",
-      "/images/apolo/apolo-img-04.png"
-    ],
-    description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a segunda a nascer e a mais rápida.",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
-    ],
-    age: "2 years",
-    weight: "4.5 kg",
-    gender: "Female",
-    fur: "Short",
-    eyes: "Green",
-    skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
-    ],
-    captionImg02: "Named after Apollo from Percy Jackson"
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   }
 ];
