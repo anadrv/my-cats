@@ -1,27 +1,27 @@
 const cats = [
   { 
     name: "APOLO", 
-    nickname: "AU AU DAS NEVES", 
+    nickname: "0 AU AU DAS NEVES", 
     img: "images/general/apolo-cover.png", 
     color: "#47f0ff",
     link: "/pages/details.html?cat=Apolo" 
   },
   { 
     name: "AURORA", 
-    nickname: "TESTE DE DNA", 
+    nickname: "O TESTE DE DNA", 
     img: "images/general/aurora-cover.png", 
     color: "#E8CAD3",
     link: "/pages/details.html?cat=Aurora" 
   },
   { 
     name: "BATATINHA", 
-    nickname: "MALANDRO", 
+    nickname: "O MALANDRO", 
     img: "images/general/batatinha-cover.png", 
     color: "#28744E" 
   },
   { 
     name: "BRANCO", 
-    nickname: "CAGEPA", 
+    nickname: "O CAGEPA", 
     img: "images/general/branco-cover.png", 
     color: "#93B4FF" 
   },
@@ -41,7 +41,7 @@ const cats = [
     name: "FUJIMOTO", 
     nickname: "O FUJÃO ", 
     img: "images/general/fujimoto-cover.png", 
-    color: "#284A74" 
+    color: "#C093FF" 
   },
   { 
     name: "FÚRIA DA LUZ", 
@@ -63,7 +63,7 @@ const cats = [
   },
   { 
     name: "MARTE", 
-    nickname: "MARTINHO MILAGRE", 
+    nickname: "O MARTINHO MILAGRE", 
     img: "images/general/marte-cover.png", 
     color: "#B7FF93" 
   },
@@ -77,12 +77,12 @@ const cats = [
     name: "PANTERA", 
     nickname: "A CAÇADORA", 
     img: "images/general/pantera-cover.png", 
-    color: "#A9DFBF" 
+    color: "#FFA993" 
   },
   { 
     name: "SKY", 
     nickname: "A COXINHA", 
     img: "images/general/sky-cover.png", 
-    color: "#85C1E9" 
+    color: "#742829" 
   }
 ];
