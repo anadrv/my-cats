@@ -15,14 +15,14 @@ const cats = [
       "Veio do Conde junto dos irmãos, Lua e Marte. Adora dormir com a cabeça pendurada, brigar com Batatinha e carinho de Sky. Não gosta muito de ficar sozinho, se a gente aqui de casa estiver reunido, ele gosta de ficar por perto.",
       "Chamado também de “o au au da casa” porque quando fica miando para entrar em algum lugar, parece “au au”. Meio carente, mas não gosta que pegue no colo, prefere carinho só na cabeça e que ele mesmo vá atrás."
     ],
-    age: "4 anos",
+    age: "5 anos",
     weight: "4.5 kg",
     gender: "Macho",
     fur: "Médio",
     eyes: "Azul claro",
     skills: [
       { name: "Nível de paciência", rating: 2 },
-      { name: "Subir nos lugares", rating: 5 },
+      { name: "Subir nos lugares", rating: 4 },
       { name: "Voz (volume)", rating: 4 },
       { name: "Carinho", rating: 3 },
       { name: "Habiliade especial", rating: "Super sólido" }
@@ -33,8 +33,8 @@ const cats = [
     name: "AURORA",
     nickname: "O TESTE DE DNA",
     background: "#E8CAD3",
-    location: "Lagoa Seca - PB",
-    birthdate: "07/12/2015",
+    location: "FILHA DE GAMORA ",
+    birthdate: "13/06/2019",
     images: [
       "/images/aurora/aurora-img-01.png",
       "/images/aurora/aurora-img-03.png",
@@ -51,13 +51,13 @@ const cats = [
     fur: "Short",
     eyes: "Green",
     skills: [
-      { name: "Open kitchen door", rating: 3 },
-      { name: "Climb on places", rating: 5 },
-      { name: "Voice (volume)", rating: 4 },
-      { name: "Affection", rating: 3 },
-      { name: "Special skill", rating: "Super" }
+      { name: "Nível de paciência", rating: 3 },
+      { name: "Subir nos lugares", rating: 4 },
+      { name: "Voz (volume)", rating: 3 },
+      { name: "Carinho", rating: 3 },
+      { name: "Habiliade especial", rating: "Super" }
     ],
-    captionImg02: "Named after Apollo from Percy Jackson"
+    captionImg02: "AURORA POR CAUSA DA CANTORA"
   },
   {
     name: "BATATINHA",

@@ -33,13 +33,13 @@ const cats = [
   },
   { 
     name: "DENTE DE ANZOL", 
-    nickname: "GATO DE JOÃO", 
+    nickname: "O MIMADO", 
     img: "images/general/dente-de-anzol-cover.png", 
     color: "#3AA4E6" 
   },
   { 
     name: "FUJIMOTO", 
-    nickname: "FUJÃO ", 
+    nickname: "O FUJÃO ", 
     img: "images/general/fujimoto-cover.png", 
     color: "#284A74" 
   },
@@ -69,7 +69,7 @@ const cats = [
   },
   { 
     name: "PANDORA", 
-    nickname: "DONA DA CASA", 
+    nickname: "A DONA DA CASA", 
     img: "images/general/pandora-cover.png", 
     color: "#BB8FCE" 
   },
@@ -81,7 +81,7 @@ const cats = [
   },
   { 
     name: "SKY", 
-    nickname: "COZINHA", 
+    nickname: "A COXINHA", 
     img: "images/general/sky-cover.png", 
     color: "#85C1E9" 
   }
