@@ -32,6 +32,8 @@ const cats = [
     captionImg02: "O NOME FOI DO APOLO DE PERCY JACKSON"
   },
 
+  //AURORA
+
   {
     name: "AURORA",
     nickname: "O TESTE DE DNA",
@@ -64,6 +66,9 @@ const cats = [
     ],
     captionImg02: "AURORA POR CAUSA DA CANTORA"
   },
+
+    //BATATINHA
+
 
   {
     name: "BATATINHA",
@@ -99,6 +104,8 @@ const cats = [
     captionImg02: "NOME PORQUE ERA UMA BATATINHA PEQUENA"
   },
 
+    //BRANCO
+
   {
     name: "BRANCO",
     nickname: "O CAGEPA",
@@ -132,6 +139,8 @@ const cats = [
     captionImg02: "JÁ TINHA NOME QUANDO FOI ADOTADO"
   },
 
+    //CRISTAL
+
   {
     name: "CRISTAL",
     nickname: "A PERIGOSA",
@@ -143,6 +152,317 @@ const cats = [
     images: [
       "/images/cristal/cristal-img-01.png",
       "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //DENTE DE ANZOL
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //FUJIMOTO
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //FURIA DA LUZ
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //GAMORA
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //LILY
+
+  {
+    name: "LILY",
+    nickname: "A REFUGIADA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //MARTE
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //PANDORA
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //PANTERA
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png",
+      "/images/cristal/cristal-img-03.png"
+    ],
+    description: [
+      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Gosta de ficar nos cantinhos, sempre observando."
+    ],
+    age: "9 anos",
+    weight: "4.0 kg",
+    gender: "Fêmea",
+    fur: "Longo",
+    eyes: "Azuis",
+    skills: [
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 2 },
+      { name: "Voz (volume)", rating: 2 },
+      { name: "Carinho", rating: 4 },
+      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+    ],
+    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+  },
+
+    //SKY
+
+  {
+    name: "CRISTAL",
+    nickname: "A PERIGOSA",
+    background: "#d8c7f2",
+    textColor: "#2a2a2a",
+    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    location: "De João Pessoa",
+    birthdate: "2016",
+    images: [
+      "/images/cristal/cristal-img-01.png",
+      "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-03.png",
       "/images/cristal/cristal-img-03.png"
     ],
     description: [
