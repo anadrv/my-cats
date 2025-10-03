@@ -186,11 +186,12 @@ const cats = [
     images: [
       "/images/cristal/cristal-img-01.png",
       "/images/cristal/cristal-img-02.png",
+      "/images/cristal/cristal-img-02.png",
       "/images/cristal/cristal-img-03.png"
     ],
     description: [
       "Quando nasceu achei que tava morto porque demorou um tempo para se mexer, até hoje é o gato que mais dorme - inclusive adora ficar enrolado na frente do ventilador.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "E como ama ficar no quarto do meu irmão, é conhecido como filho dele. Irmão mais novo por minutos, adora beber água e parece que malha. Comunicativo e impossível de dar remédio."
     ],
     age: "9 anos",
     weight: "4.0 kg",
@@ -314,7 +315,7 @@ const cats = [
   {
     name: "LILY",
     nickname: "A REFUGIADA",
-    background: "#dFF8D9E",
+    background: "#FF8D9E",
     textColor: "#121212",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
@@ -335,7 +336,7 @@ const cats = [
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
+      { name: "Nível de paciência", rating: 1 },
       { name: "Subir nos lugares", rating: 2 },
       { name: "Voz (volume)", rating: 2 },
       { name: "Carinho", rating: 4 },

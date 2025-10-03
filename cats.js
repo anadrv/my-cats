@@ -52,7 +52,9 @@ const cats = [
     name: "FÚRIA DA LUZ", 
     nickname: "A MODELO", 
     img: "images/general/furia-cover.png", 
-    color: "#FF93F0" 
+    color: "#FF93F0",
+    link: "/pages/details.html?cat=FURIA+DA+LUZ" 
+
   },
   { 
     name: "GAMORA", 
