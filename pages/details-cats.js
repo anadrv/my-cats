@@ -210,7 +210,7 @@ const cats = [
     //FUJIMOTO
 
   {
-    name: "CRISTAL",
+    name: "FUJIMOTO",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -244,7 +244,7 @@ const cats = [
     //FURIA DA LUZ
 
   {
-    name: "CRISTAL",
+    name: "FURIA DA LUZ",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -278,7 +278,7 @@ const cats = [
     //GAMORA
 
   {
-    name: "CRISTAL",
+    name: "GAMORA",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -347,7 +347,7 @@ const cats = [
     //MARTE
 
   {
-    name: "CRISTAL",
+    name: "MARTE",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -382,7 +382,7 @@ const cats = [
     //PANDORA
 
   {
-    name: "CRISTAL",
+    name: "PANDORA",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -417,7 +417,7 @@ const cats = [
     //PANTERA
 
   {
-    name: "CRISTAL",
+    name: "PANTERA",
     nickname: "A PERIGOSA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
@@ -452,8 +452,8 @@ const cats = [
     //SKY
 
   {
-    name: "CRISTAL",
-    nickname: "A PERIGOSA",
+    name: "SKY",
+    nickname: "A COXINHA",
     background: "#d8c7f2",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],

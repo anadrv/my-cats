@@ -39,7 +39,7 @@ const cats = [
     nickname: "O MIMADO", 
     img: "images/general/dente-de-anzol-cover.png", 
     color: "#3AA4E6",
-    link: "/pages/details.html?cat=DENTE%20DE%20ANZOL" 
+    link: "/pages/details.html?cat=DENTE+DE+ANZOL" 
   },
   { 
     name: "FUJIMOTO", 
