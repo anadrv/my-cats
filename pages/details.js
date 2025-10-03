@@ -143,10 +143,10 @@ if (currentIndex === -1) currentIndex = 0;
 
 
 function goToCat(index) {
-  const nextCatName = catsNames[index];
+  const nextCatName = cats[index].name; 
   const params = new URLSearchParams(window.location.search);
   params.set("cat", nextCatName);
-  window.location.search = params.toString(); 
+  window.location.search = params.toString();
 }
 
 nextBtn.addEventListener('click', () => {
