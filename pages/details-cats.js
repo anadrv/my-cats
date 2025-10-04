@@ -280,16 +280,17 @@ const cats = [
 
   {
     name: "GAMORA",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "A FILHOTE DA CASA",
+    background: "#FF93F0",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/gamora/gamora-img-01.png",
+      "/images/gamora/gamora-img-02.png",
+      "/images/gamora/gamora-img-03.png",
+      "/images/gamora/gamora-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -301,9 +302,9 @@ const cats = [
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
+      { name: "Nível de paciência", rating: 5 },
+      { name: "Subir nos lugares", rating: 4 },
+      { name: "Voz (volume)", rating: 1 },
       { name: "Carinho", rating: 4 },
       { name: "Habiliade especial", rating: "Olhar hipnotizante" }
     ],
@@ -385,7 +386,7 @@ const cats = [
   {
     name: "PANDORA",
     nickname: "A DONA DA CASA",
-    background: "#924ECD",
+    background: "#AB5EEE",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
@@ -406,11 +407,11 @@ const cats = [
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
+      { name: "Nível de paciência", rating: 5 },
+      { name: "Subir nos lugares", rating: 4 },
+      { name: "Voz (volume)", rating: 1 },
       { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Habiliade especial", rating: "Resitência física" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   },
