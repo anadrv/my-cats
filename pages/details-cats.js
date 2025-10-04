@@ -459,16 +459,16 @@ const cats = [
   {
     name: "SKY",
     nickname: "A COXINHA",
-    background: "#d8c7f2",
+    background: "#97AFCC",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "Do Conde - PB",
     birthdate: "2021",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/sky/sky-img-01.png",
+      "/images/sky/sky-img-02.png",
+      "/images/sky/sky-img-03.png",
+      "/images/sky/sky-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",

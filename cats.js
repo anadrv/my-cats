@@ -17,7 +17,7 @@ const cats = [
     name: "BATATINHA", 
     nickname: "O MALANDRO", 
     img: "images/general/batatinha-cover.png", 
-    color: "#28744E",
+    color: "#4DC88B",
     link: "/pages/details.html?cat=BATATINHA" 
   },
   { 
@@ -60,14 +60,14 @@ const cats = [
     name: "GAMORA", 
     nickname: "A FILHOTE DA CASA", 
     img: "images/general/gamora-cover.png", 
-    color: "#D98880",
+    color: "#FF93F0",
     link: "/pages/details.html?cat=GAMORA"  
   },
   { 
     name: "LILY", 
     nickname: "A REFUGIADA", 
     img: "images/general/lily-cover.png", 
-    color: "#E55B70",
+    color: "#FF8D9E",
     link: "/pages/details.html?cat=LILY" 
   },
   { 
@@ -95,7 +95,7 @@ const cats = [
     name: "SKY", 
     nickname: "A COXINHA", 
     img: "images/general/sky-cover.png", 
-    color: "#742829",
+    color: "#97AFCC",
     link: "/pages/details.html?cat=SKY" 
   }
 ];
