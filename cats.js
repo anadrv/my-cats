@@ -31,7 +31,7 @@ const cats = [
     name: "CRISTAL", 
     nickname: "A PERIGOSA", 
     img: "images/general/cristal-cover.png", 
-    color: "#F1C56E",
+    color: "#FFD582",
     link: "/pages/details.html?cat=CRISTAL" 
   },
   { 

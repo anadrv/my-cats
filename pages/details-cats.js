@@ -144,7 +144,7 @@ const cats = [
   {
     name: "CRISTAL",
     nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    background: "#FFD582",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
