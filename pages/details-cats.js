@@ -162,14 +162,14 @@ const cats = [
     age: "9 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
+    fur: "Curto",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
+      { name: "Nível de paciência", rating: 1 },
+      { name: "Subir nos lugares", rating: 4 },
       { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Carinho", rating: 5 },
+      { name: "Habiliade especial", rating: "Vingança" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   },
@@ -213,12 +213,12 @@ const cats = [
 
   {
     name: "FUJIMOTO",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "O FUJÃO",
+    background: "#C093FF",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    location: "NOVO NA CASA",
+    birthdate: "ADOTADO EM 04/07/2025",
     images: [
       "/images/fujimoto/fujimoto-img-01.png",
       "/images/fujimoto/fujimoto-img-02.png",
@@ -229,17 +229,17 @@ const cats = [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
-    age: "9 anos",
+    age: "1 ano?",
     weight: "4.0 kg",
-    gender: "Fêmea",
+    gender: "Macho",
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
+      { name: "Nível de paciência", rating: 5 },
+      { name: "Subir nos lugares", rating: 5 },
       { name: "Voz (volume)", rating: 2 },
       { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Habiliade especial", rating: "Sumir nas sombras" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   },
