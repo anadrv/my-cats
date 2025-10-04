@@ -423,8 +423,8 @@ const cats = [
 
   {
     name: "PANTERA",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "A CAÇADORA",
+    background: "#FFA993",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
