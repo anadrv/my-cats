@@ -199,13 +199,13 @@ const cats = [
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Nível de paciência", rating: 3 },
+      { name: "Subir nos lugares", rating: 4 },
+      { name: "Voz (volume)", rating: 5 },
+      { name: "Carinho", rating: 3 },
+      { name: "Habiliade especial", rating: "Dormir 16H" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "O NOME DO DRAGÃO DO MELEQUENTO (COMO TREINAR O SEU DRAGÃO)"
   },
 
     //FUJIMOTO
@@ -349,25 +349,25 @@ const cats = [
 
   {
     name: "MARTE",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "MARTINHO MILAGRE",
+    background: "#B7FF93",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    location: "Do Conde - PB",
+    birthdate: "2021",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/marte/marte-img-01.png",
+      "/images/marte/marte-img-02.png",
+      "/images/marte/marte-img-01.png",
+      "/images/marte/marte-img-01.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
-    age: "9 anos",
+    age: "5 anos",
     weight: "4.0 kg",
-    gender: "Fêmea",
+    gender: "Macho",
     fur: "Longo",
     eyes: "Azuis",
     skills: [
@@ -458,8 +458,8 @@ const cats = [
     background: "#d8c7f2",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    location: "Do Conde - PB",
+    birthdate: "2021",
     images: [
       "/images/cristal/cristal-img-01.png",
       "/images/cristal/cristal-img-02.png",
