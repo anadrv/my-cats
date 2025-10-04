@@ -152,7 +152,8 @@ const cats = [
     images: [
       "/images/cristal/cristal-img-01.png",
       "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/cristal/cristal-img-03.png",
+      "/images/cristal/cristal-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -219,9 +220,10 @@ const cats = [
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/fujimoto/fujimoto-img-01.png",
+      "/images/fujimoto/fujimoto-img-02.png",
+      "/images/fujimoto/fujimoto-img-03.png",
+      "/images/fujimoto/fujimoto-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -253,9 +255,10 @@ const cats = [
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/furia/furia-img-01.png",
+      "/images/furia/furia-img-02.png",
+      "/images/furia/furia-img-03.png",
+      "/images/furia/furia-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -359,8 +362,8 @@ const cats = [
     images: [
       "/images/marte/marte-img-01.png",
       "/images/marte/marte-img-02.png",
-      "/images/marte/marte-img-01.png",
-      "/images/marte/marte-img-01.png"
+      "/images/marte/marte-img-03.png",
+      "/images/marte/marte-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -392,10 +395,10 @@ const cats = [
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/pandora/pandora-img-01.png",
+      "/images/pandora/pandora-img-02.png",
+      "/images/pandora/pandora-img-03.png",
+      "/images/pandora/pandora-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",

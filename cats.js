@@ -1,7 +1,7 @@
 const cats = [
   { 
     name: "APOLO", 
-    nickname: "0 AU AU DAS NEVES", 
+    nickname: "O AU AU DAS NEVES", 
     img: "images/general/apolo-cover.png", 
     color: "#47f0ff",
     link: "/pages/details.html?cat=APOLO" 
