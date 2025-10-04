@@ -426,10 +426,10 @@ const cats = [
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/pantera/pantera-img-01.png",
+      "/images/pantera/pantera-img-02.png",
+      "/images/pantera/pantera-img-03.png",
+      "/images/pantera/pantera-img-04.png"
     ],
     description: [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
@@ -438,14 +438,14 @@ const cats = [
     age: "9 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    fur: "Curto",
+    eyes: "Amarelos",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Nível de paciência", rating: 5 },
+      { name: "Subir nos lugares", rating: 5 },
+      { name: "Voz (volume)", rating: 3 },
+      { name: "Carinho", rating: 5 },
+      { name: "Habiliade especial", rating: "Caber nos lugares" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   },
