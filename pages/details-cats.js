@@ -109,8 +109,8 @@ const cats = [
   {
     name: "BRANCO",
     nickname: "O CAGEPA",
-    background: "#f5f5f5",
-    textColor: "#111111",
+    background: "#93B4FF",
+    textColor: "#121212",
     colors: ["#f5f5f5", "#dcdcdc", "#a9a9a9"],
     location: "NÃO PODE VER ÁGUA QUE QUER BEBER",
     birthdate: "2017",
@@ -177,27 +177,27 @@ const cats = [
 
   {
     name: "DENTE DE ANZOL",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "O MIMADO",
+    background: "#3FB1F8",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    location: "FILHO DE MONSY",
+    birthdate: "07/12/2015",
     images: [
-      "/images/cristal/cristal-img-01.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-02.png",
-      "/images/cristal/cristal-img-03.png"
+      "/images/dente-de-anzol/dente-img-01.png",
+      "/images/dente-de-anzol/dente-img-02.png",
+      "/images/dente-de-anzol/dente-img-03.png",
+      "/images/dente-de-anzol/dente-img-04.png"
     ],
     description: [
       "Quando nasceu achei que tava morto porque demorou um tempo para se mexer, até hoje é o gato que mais dorme - inclusive adora ficar enrolado na frente do ventilador.",
       "E como ama ficar no quarto do meu irmão, é conhecido como filho dele. Irmão mais novo por minutos, adora beber água e parece que malha. Comunicativo e impossível de dar remédio."
     ],
     age: "9 anos",
-    weight: "4.0 kg",
-    gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    weight: "4.0 kg", 
+    gender: "Macho",
+    fur: "Curto",
+    eyes: "Amarelo",
     skills: [
       { name: "Nível de paciência", rating: 3 },
       { name: "Subir nos lugares", rating: 4 },
@@ -246,8 +246,8 @@ const cats = [
 
   {
     name: "FURIA DA LUZ",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "A MODELO",
+    background: "#98E3DB",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
@@ -384,8 +384,8 @@ const cats = [
 
   {
     name: "PANDORA",
-    nickname: "A PERIGOSA",
-    background: "#d8c7f2",
+    nickname: "A DONA DA CASA",
+    background: "#924ECD",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",

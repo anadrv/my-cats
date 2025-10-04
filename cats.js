@@ -38,7 +38,7 @@ const cats = [
     name: "DENTE DE ANZOL", 
     nickname: "O MIMADO", 
     img: "images/general/dente-de-anzol-cover.png", 
-    color: "#3AA4E6",
+    color: "#3FB1F8",
     link: "/pages/details.html?cat=DENTE+DE+ANZOL" 
   },
   { 
@@ -52,7 +52,7 @@ const cats = [
     name: "FÚRIA DA LUZ", 
     nickname: "A MODELO", 
     img: "images/general/furia-cover.png", 
-    color: "#FF93F0",
+    color: "#98E3DB",
     link: "/pages/details.html?cat=FURIA+DA+LUZ" 
 
   },
