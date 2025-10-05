@@ -101,7 +101,7 @@ const cats = [
       { name: "Carinho", rating: 2 },
       { name: "Habiliade especial", rating: "Miado ensurdecedor" }
     ],
-    captionImg02: "NOME PORQUE ERA UMA BATATINHA PEQUENA"
+    captionImg02: "DE INOCENTE SÓ TEM A CARA"
   },
 
     //BRANCO
@@ -144,7 +144,7 @@ const cats = [
   {
     name: "CRISTAL",
     nickname: "A PERIGOSA",
-    background: "#FFD582",
+    background: "#f9dea8ff",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
     location: "De João Pessoa",
@@ -165,7 +165,7 @@ const cats = [
     fur: "Curto",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 1 },
+      { name: "Nível de paciência", rating: "Não tem" },
       { name: "Subir nos lugares", rating: 4 },
       { name: "Voz (volume)", rating: 2 },
       { name: "Carinho", rating: 5 },
@@ -233,11 +233,11 @@ const cats = [
     weight: "4.0 kg",
     gender: "Macho",
     fur: "Longo",
-    eyes: "Azuis",
+    eyes: "Amarelos",
     skills: [
       { name: "Nível de paciência", rating: 5 },
       { name: "Subir nos lugares", rating: 5 },
-      { name: "Voz (volume)", rating: 2 },
+      { name: "Voz (volume)", rating: 3 },
       { name: "Carinho", rating: 4 },
       { name: "Habiliade especial", rating: "Sumir nas sombras" }
     ],
@@ -252,8 +252,8 @@ const cats = [
     background: "#98E3DB",
     textColor: "#2a2a2a",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    location: "A CARA DA MÃE (GAMORA)",
+    birthdate: "2019",
     images: [
       "/images/furia/furia-img-01.png",
       "/images/furia/furia-img-02.png",
@@ -322,7 +322,7 @@ const cats = [
     background: "#FF8D9E",
     textColor: "#121212",
     colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
+    location: "VIVE NO MEU QUARTO",
     birthdate: "2016",
     images: [
       "/images/lily/lily-img-01.png",
@@ -379,7 +379,7 @@ const cats = [
       { name: "Subir nos lugares", rating: 2 },
       { name: "Voz (volume)", rating: 2 },
       { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Habiliade especial", rating: "Sobreviver" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
   },
@@ -407,8 +407,8 @@ const cats = [
     age: "9 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    fur: "Médio",
+    eyes: "Verde",
     skills: [
       { name: "Nível de paciência", rating: 5 },
       { name: "Subir nos lugares", rating: 4 },
