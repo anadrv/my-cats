@@ -75,8 +75,8 @@ const cats = [
     nickname: "O MALANDRO",
     background: "#4DC88B",
     textColor: "#121212",
-    colors: ["#f4e19e", "#f2b632", "#fff8dc"],
-    location: "De Campina Grande",
+    colors: ["#9A9175", "#DAC3AE", "#8E6552"],
+    location: "O PRIMEIRO A EXPLORAR A CASA",
     birthdate: "02/08/2018",
     images: [
       "/images/batatinha/batatinha-img-01.png",
@@ -86,8 +86,8 @@ const cats = [
       
     ],
     description: [
-      "O gato mais escandaloso da casa, qualquer coisa é motivo para miado.",
-      "Adora brigar com Apolo, mas no fundo são parceiros inseparáveis."
+      "Foi adotado junto dos 4 irmãos e quando chegaram, ele foi o primeiro a sair da bacia e explorar a casa. Ele tem um miado bem característico e gosta de miar quando a pessoa chega em casa, como se contasse o que aconteceu ",
+      "Um dos únicos gatos que não escolhi o nome, ele é bem tranquilo e esperto, de inocente só tem a cara, adora marcar o território."
     ],
     age: "7 anos",
     weight: "5.2 kg",
@@ -95,11 +95,11 @@ const cats = [
     fur: "Curto",
     eyes: "Amarelos",
     skills: [
-      { name: "Nível de paciência", rating: 1 },
-      { name: "Subir nos lugares", rating: 3 },
+      { name: "Nível de paciência", rating: 4 },
+      { name: "Subir nos lugares", rating: 5 },
       { name: "Voz (volume)", rating: 5 },
-      { name: "Carinho", rating: 2 },
-      { name: "Habiliade especial", rating: "Miado ensurdecedor" }
+      { name: "Carinho", rating: 5 },
+      { name: "Habiliade especial", rating: "Flexibilidade" }
     ],
     captionImg02: "DE INOCENTE SÓ TEM A CARA"
   },
@@ -121,7 +121,7 @@ const cats = [
       "/images/branco/branco-img-04.png"
     ],
     description: [
-      "Chamado de 'fantasma' porque aparece e desaparece sem a gente ver.",
+      "Foi adotado com quase 1 ano de idade, no ínicio ele era bem comportado, mas agora ele gosta de pedir tudo, principalmente água, não pode ver uma torneira ligada, um balde, um copo..em qualquer recipiente ele quer água.",
       "Super independente, mas de vez em quando pede carinho do nada."
     ],
     age: "8 anos",
