@@ -356,7 +356,7 @@ const cats = [
     nickname: "MARTINHO MILAGRE",
     background: "#B7FF93",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#98d47aff", "#84b96aff", "#3d5730ff"],
     location: "Do Conde - PB",
     birthdate: "2021",
     images: [
@@ -366,22 +366,22 @@ const cats = [
       "/images/marte/marte-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "O apelido Martinho Milagre veio antes mesmo de quando ele de alguma forma, quebrou a coluna e voltou pra casa sem conseguir andar direito, onde acabou perdendo os movimentos das patas traseiras e precisou fazer cirurgia. As chances de voltar a andar eram bem pequenas, mas mesmo assim, cerca de um mês depois, ele começou a dar os primeiros passos e com o tempo foi melhorando cada vez mais, até que hoje anda quase normal de novo e consegue subir sozinho na cama e no sofá. O apelido veio por outro motivo.",
+      "Adora os pés e sandálias, ele vai ficar nos seus sempre que tiver oportunidade, até que você não aguente mais. É carinhoso é gosta de estar perto. Um dos mais inteligentes de casa, sabe abrir sozinho e muito bem a porta da cozinha."
     ],
-    age: "5 anos",
+    age: "4 anos",
     weight: "4.0 kg",
     gender: "Macho",
-    fur: "Longo",
+    fur: "Médio",
     eyes: "Azuis",
     skills: [
       { name: "Nível de paciência", rating: 4 },
       { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
+      { name: "Voz (volume)", rating: 4 },
+      { name: "Carinho", rating: 5 },
       { name: "Habiliade especial", rating: "Sobreviver" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "MARTE POR CAUSA DO PLANETA"
   },
 
     //PANDORA
