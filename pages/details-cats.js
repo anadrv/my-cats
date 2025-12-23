@@ -391,9 +391,9 @@ const cats = [
     nickname: "A DONA DA CASA",
     background: "#AB5EEE",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    colors: ["#a25be0ff", "#8648bcff", "#562f78ff"],
+    location: "Apareceu aqui e ficou",
+    birthdate: "2019",
     images: [
       "/images/pandora/pandora-img-01.png",
       "/images/pandora/pandora-img-02.png",
@@ -401,22 +401,22 @@ const cats = [
       "/images/pandora/pandora-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "A gata mais tranquila que já conheci, ela deixa você pegar nela sem problema, sem reclamações, fica só na espera. Não briga com os outros gatos, quase não faz barulho ao miar, mas mesmo assim é uma gata muito decidida, não hesita nem um pouco para entrar onde quer.",
+      "Também já foi muito chamada de Shakira por uma prima, por causa dos olhos deliniados e de Fênix porque sempre fica muito magra durante as crises, mas sempre melhora e basicamente resurge."
     ],
-    age: "9 anos",
-    weight: "4.0 kg",
+    age: "6 anos?",
+    weight: "3.0 kg",
     gender: "Fêmea",
     fur: "Médio",
     eyes: "Verde",
     skills: [
       { name: "Nível de paciência", rating: 5 },
-      { name: "Subir nos lugares", rating: 4 },
+      { name: "Subir nos lugares", rating: 5 },
       { name: "Voz (volume)", rating: 1 },
-      { name: "Carinho", rating: 4 },
+      { name: "Carinho", rating: 5 },
       { name: "Habiliade especial", rating: "Resitência física" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "PANDORA EM HOMENAGEM A UMA PERSONAGEM DOS RAVENELS"
   },
 
     //PANTERA
