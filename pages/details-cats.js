@@ -4,7 +4,7 @@ const cats = [
     nickname: "AU AU DAS NEVES",
     background: "#3dcfdd",
     textColor: "#121212",
-    colors: ["#3dcfdd", "#f7a1a1", "#fff176"],
+    colors: ["#2ea9b5ff", "#227e86ff", "#19565cff"],
     location: "Do Conde - PB",
     birthdate: "07/12/2015",
     images: [
@@ -439,7 +439,7 @@ const cats = [
       "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
-    age: "9 anos",
+    age: "10 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
     fur: "Curto",
