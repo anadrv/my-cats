@@ -39,7 +39,7 @@ const cats = [
     nickname: "O TESTE DE DNA",
     background: "#E8CAD3",
     textColor: "#121212",
-    colors: ["#9A9175", "#DAC3AE", "#8E6552"],
+    colors: ["#cfb6bdff", "#cbaab4ff", "#bb798dff"],
     location: "FILHA DE GAMORA ",
     birthdate: "13/06/2019",
     images: [
@@ -87,7 +87,7 @@ const cats = [
     ],
     description: [
       "Foi adotado junto dos 4 irmãos e quando chegaram, ele foi o primeiro a sair da bacia e explorar a casa. Ele tem um miado bem característico e gosta de miar quando a pessoa chega em casa, como se contasse o que aconteceu ",
-      "Um dos únicos gatos que não escolhi o nome, ele é bem tranquilo e esperto, de inocente só tem a cara, adora marcar o território."
+      "Um dos únicos gatos que não escolhi o nome, ele é bem tranquilo e esperto, de inocente só tem a cara, adora marcar o território e fazer massagem com as unhas em você."
     ],
     age: "7 anos",
     weight: "5.2 kg",
