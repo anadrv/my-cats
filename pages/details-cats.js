@@ -75,7 +75,7 @@ const cats = [
     nickname: "O MALANDRO",
     background: "#4DC88B",
     textColor: "#121212",
-    colors: ["#9A9175", "#DAC3AE", "#8E6552"],
+    colors: ["#3aa771ff", "#2da167ff", "#1c8f55ff"],
     location: "O PRIMEIRO A EXPLORAR A CASA",
     birthdate: "02/08/2018",
     images: [
@@ -86,14 +86,14 @@ const cats = [
       
     ],
     description: [
-      "Foi adotado junto dos 4 irmãos e quando chegaram, ele foi o primeiro a sair da bacia e explorar a casa. Ele tem um miado bem característico e gosta de miar quando a pessoa chega em casa, como se contasse o que aconteceu ",
-      "Um dos únicos gatos que não escolhi o nome, ele é bem tranquilo e esperto, de inocente só tem a cara, adora marcar o território e fazer massagem com as unhas em você."
+      "Foi adotado junto dos 4 irmãos e quando chegaram, ele foi o primeiro a sair da bacia e explorar a casa. Ele tem um miado bem característico e gosta de miar quando a pessoa chega em casa, como se contasse o que aconteceu enquanto você não estava em casa. ",
+      "Um dos únicos gatos que não escolhi o nome, ele é bem tranquilo e esperto, de inocente só tem a cara (tanto que já quebrou um dedo e teve que colocar gesso - não durou nem uma semana com ele), adora marcar o território e fazer massagem com as unhas em você."
     ],
     age: "7 anos",
     weight: "5.2 kg",
     gender: "Macho",
     fur: "Curto",
-    eyes: "Amarelos",
+    eyes: "Verde",
     skills: [
       { name: "Nível de paciência", rating: 4 },
       { name: "Subir nos lugares", rating: 5 },
@@ -121,8 +121,8 @@ const cats = [
       "/images/branco/branco-img-04.png"
     ],
     description: [
-      "Foi adotado com quase 1 ano de idade, no ínicio ele era bem comportado, mas agora ele gosta de pedir tudo, principalmente água, não pode ver uma torneira ligada, um balde, um copo..em qualquer recipiente ele quer água.",
-      "Super independente, mas de vez em quando pede carinho do nada."
+      "Foi adotado com quase 1 ano de idade, no ínicio ele era bem comportado, mas agora ele gosta de pedir tudo, principalmente água, não pode ver uma torneira ligada, um balde, um copo...em qualquer recipiente ele quer água - e vai insistir até conseguir",
+      "Adora comer quase toda fruta, principalmente melancia, fica louco quando vê."
     ],
     age: "8 anos",
     weight: "5.0 kg",
