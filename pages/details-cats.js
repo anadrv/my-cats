@@ -181,7 +181,7 @@ const cats = [
     nickname: "O MIMADO",
     background: "#3FB1F8",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#319ee1ff", "#1f8accff", "#1c82c1ff"],
     location: "FILHO DE MONSY",
     birthdate: "07/12/2015",
     images: [
@@ -216,7 +216,7 @@ const cats = [
     nickname: "O FUJÃO",
     background: "#C093FF",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#a878ebff", "#8752d1ff", "#915bdcff"],
     location: "NOVO NA CASA",
     birthdate: "ADOTADO EM 04/07/2025",
     images: [
@@ -227,7 +227,7 @@ const cats = [
     ],
     description: [
       "O gato mais de boa da casa, se você colocar ele em uma sacola e sair andando, ele não vai se importar. Também é um dos gatos mais pesados da casa. Quando chegou aqui, achamos que tinha dono, de tão tranquilo que ele é, mas ninguém apareceu atrás dele.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "Costumva sair pela área de sol da cozinha e ficar em cima da rede, esperando que alguém fosse pegar ele, em vez de descer sozinho."
     ],
     age: "1 ano?",
     weight: "4.0 kg",
