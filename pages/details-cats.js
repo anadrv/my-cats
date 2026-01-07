@@ -146,9 +146,9 @@ const cats = [
     nickname: "A PERIGOSA",
     background: "#f9dea8ff",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    colors: ["#e2c17eff", "#b2904bff", "#ae832cff"],
+    location: "FILHA DE MONSY",
+    birthdate: "07/12/2015",
     images: [
       "/images/cristal/cristal-img-01.png",
       "/images/cristal/cristal-img-02.png",
@@ -171,7 +171,7 @@ const cats = [
       { name: "Carinho", rating: 5 },
       { name: "Habiliade especial", rating: "Vingança" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "PODE MORDER VOCÊ DO NADA"
   },
 
     //DENTE DE ANZOL
