@@ -226,7 +226,7 @@ const cats = [
       "/images/fujimoto/fujimoto-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "O gato mais de boa da casa, se você colocar ele em uma sacola e sair andando, ele não vai se importar. Também é um dos gatos mais pesados da casa. Quando chegou aqui, achamos que tinha dono, de tão tranquilo que ele é, mas ninguém apareceu atrás dele.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
     age: "1 ano?",
