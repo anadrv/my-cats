@@ -156,8 +156,8 @@ const cats = [
       "/images/cristal/cristal-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "",
+      ""
     ],
     age: "9 anos",
     weight: "4.0 kg",
@@ -251,7 +251,7 @@ const cats = [
     nickname: "A MODELO",
     background: "#98E3DB",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#73ccc3ff", "#45a99fff", "#389e94ff"],
     location: "A CARA DA MÃE (GAMORA)",
     birthdate: "2019",
     images: [
@@ -261,22 +261,22 @@ const cats = [
       "/images/furia/furia-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "",
+      ""
     ],
-    age: "9 anos",
+    age: "5 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    fur: "Curto",
+    eyes: "Verde",
     skills: [
-      { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
-      { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
-      { name: "Habiliade especial", rating: "Olhar hipnotizante" }
+      { name: "Nível de paciência", rating: 3 },
+      { name: "Subir nos lugares", rating: 3 },
+      { name: "Voz (volume)", rating: 4 },
+      { name: "Carinho", rating: 3 },
+      { name: "Habiliade especial", rating: "Se soltar do colo" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "NOME POR CAUSA DO DRAGÃO DO FILME"
   },
 
     //GAMORA
