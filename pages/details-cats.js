@@ -286,9 +286,9 @@ const cats = [
     nickname: "A FILHOTE DA CASA",
     background: "#FF93F0",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "De João Pessoa",
-    birthdate: "2016",
+    colors: ["#d375c7ff", "#cb53bbff", "#a92f99ff"],
+    location: "A mamãe da casa",
+    birthdate: "2019",
     images: [
       "/images/gamora/gamora-img-01.png",
       "/images/gamora/gamora-img-02.png",
@@ -305,13 +305,13 @@ const cats = [
     fur: "Longo",
     eyes: "Azuis",
     skills: [
-      { name: "Nível de paciência", rating: 5 },
+      { name: "Nível de paciência", rating: 4 },
       { name: "Subir nos lugares", rating: 4 },
       { name: "Voz (volume)", rating: 1 },
       { name: "Carinho", rating: 4 },
       { name: "Habiliade especial", rating: "Olhar hipnotizante" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "FILHOTE DA CASA POR SER PEQUENA"
   },
 
     //LILY
