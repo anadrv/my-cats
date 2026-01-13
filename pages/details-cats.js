@@ -49,8 +49,8 @@ const cats = [
       "/images/aurora/aurora-img-05.png"
     ],
     description: [
-      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a que nasceu mais normal e a mais rápida. É a irmã do meio ",
-      "Desde pequena é meio nervosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
+      "Também conhecida como 'teste de DNA', porque é a cara do que a gente achava que era o pai (tinha dois possíveis gatos na história). Foi a que nasceu mais normal e a mais rápida. É a irmã do meio e bem parecida com a tia, no tamanho e no tipo de pelagem",
+      "Desde pequena é meio nervosa e muito medrosa — se você pega no colo, ela se enrosca toda de medo. Mas gosta de carinho, ronrona e te lambe se você deixar. "
     ],
     age: "6 anos",
     weight: "4.5 kg",
@@ -111,7 +111,7 @@ const cats = [
     nickname: "O CAGEPA",
     background: "#93B4FF",
     textColor: "#121212",
-    colors: ["#f5f5f5", "#dcdcdc", "#a9a9a9"],
+    colors: ["#6083d6ff", "#4b6cbaff", "#3156acff"],
     location: "NÃO PODE VER ÁGUA QUE QUER BEBER",
     birthdate: "2017",
     images: [
@@ -321,7 +321,7 @@ const cats = [
     nickname: "A REFUGIADA",
     background: "#FF8D9E",
     textColor: "#121212",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#d76072ff", "#c64357ff", "#b7364aff"],
     location: "VIVE NO MEU QUARTO",
     birthdate: "2016",
     images: [
