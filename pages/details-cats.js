@@ -156,10 +156,10 @@ const cats = [
       "/images/cristal/cristal-img-04.png"
     ],
     description: [
-      "",
+      "A única da casa que precisa ter cuidado, porque em algum momento ela vai morder a bater em você, muitas vezes do nada. A gata mais expressiva da casa, tem hora que parece (e é também) toda fofa e carinhosa - e outras vezes, parece muito brava (e não só parece.",
       ""
     ],
-    age: "9 anos",
+    age: "10 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
     fur: "Curto",
@@ -194,7 +194,7 @@ const cats = [
       "Quando nasceu achei que tava morto porque demorou um tempo para se mexer, até hoje é o gato que mais dorme - inclusive adora ficar enrolado na frente do ventilador.",
       "E como ama ficar no quarto do meu irmão, é conhecido como filho dele. Irmão mais novo por minutos, adora beber água e parece que malha. Comunicativo e impossível de dar remédio."
     ],
-    age: "9 anos",
+    age: "10 anos",
     weight: "4.0 kg", 
     gender: "Macho",
     fur: "Curto",
