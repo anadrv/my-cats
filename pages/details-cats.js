@@ -461,9 +461,9 @@ const cats = [
     nickname: "A COXINHA",
     background: "#97AFCC",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
-    location: "Do Conde - PB",
-    birthdate: "2021",
+    colors: ["#5b85b7ff", "#97AFCC", "#4f7aafff"],
+    location: "Adora pegar o lugar os outros",
+    birthdate: "2019",
     images: [
       "/images/sky/sky-img-01.png",
       "/images/sky/sky-img-02.png",
@@ -471,19 +471,19 @@ const cats = [
       "/images/sky/sky-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
+      "Uma das mais atenciosas e carinhosa, na maioria das vezes quando chama, ela vem sem problema e toda fofa atrás de você.",
       "Gosta de ficar nos cantinhos, sempre observando."
     ],
     age: "9 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    fur: "Curto",
+    eyes: "Verde",
     skills: [
       { name: "Nível de paciência", rating: 4 },
-      { name: "Subir nos lugares", rating: 2 },
+      { name: "Subir nos lugares", rating: 5 },
       { name: "Voz (volume)", rating: 2 },
-      { name: "Carinho", rating: 4 },
+      { name: "Carinho", rating: 5 },
       { name: "Habiliade especial", rating: "Olhar hipnotizante" }
     ],
     captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
