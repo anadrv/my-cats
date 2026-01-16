@@ -426,7 +426,7 @@ const cats = [
     nickname: "A CAÇADORA",
     background: "#FFA993",
     textColor: "#2a2a2a",
-    colors: ["#d8c7f2", "#b39ddb", "#ede7f6"],
+    colors: ["#e49480ff", "#ce7c67ff", "#ba5d45ff"],
     location: "De João Pessoa",
     birthdate: "2016",
     images: [
