@@ -241,7 +241,7 @@ const cats = [
       { name: "Carinho", rating: 4 },
       { name: "Habiliade especial", rating: "Sumir nas sombras" }
     ],
-    captionImg02: "NOME POR SER DELICADA COMO UM CRISTAL"
+    captionImg02: "TRANQUILO"
   },
 
     //FURIA DA LUZ
@@ -270,7 +270,7 @@ const cats = [
     fur: "Curto",
     eyes: "Verde",
     skills: [
-      { name: "Nível de paciência", rating: 3 },
+      { name: "Nível de paciência", rating: 2 },
       { name: "Subir nos lugares", rating: 3 },
       { name: "Voz (volume)", rating: 4 },
       { name: "Carinho", rating: 3 },
