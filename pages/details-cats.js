@@ -264,7 +264,7 @@ const cats = [
       "",
       ""
     ],
-    age: "5 anos",
+    age: "5 anos", 
     weight: "4.0 kg",
     gender: "Fêmea",
     fur: "Curto",
@@ -296,14 +296,14 @@ const cats = [
       "/images/gamora/gamora-img-04.png"
     ],
     description: [
-      "Delicada e calma, mas quando não gosta de algo deixa bem claro.",
-      "Gosta de ficar nos cantinhos, sempre observando."
+      "Como descrever Gamora...ela é a menor da casa, por isso gosto de chamar de 'a filhote da casa', gosta bastante de brincar e quando os filhos dela eram filhotes, ela costumava pegar folhas secas e levar para eles dentro de casa para eles brincarem, virou mãe bem jovem.",
+      "É uma gata bem na dela, tranquila e um pouco assustada com barulhos altos e gente, acabou passando isso para as filhas, que são bem nervosas, mas pelo menos serviu para nenhuma delas gostarem se sair de casa, então sempre foi menos uma preocupação de sumirem como aconteceu com alguns outros."
     ],
-    age: "9 anos",
+    age: "7 anos",
     weight: "4.0 kg",
     gender: "Fêmea",
-    fur: "Longo",
-    eyes: "Azuis",
+    fur: "Curto",
+    eyes: "Verdes",
     skills: [
       { name: "Nível de paciência", rating: 4 },
       { name: "Subir nos lugares", rating: 4 },
